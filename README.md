@@ -1,5 +1,6 @@
 # Panim
 ### A Console Animation Library 🔆
+### Made with ❤️ in  🇮🇳
 
 ## Example Usage
 ```python
@@ -12,7 +13,6 @@ putchar('\n');
 foreground(WHITE);
 ```
 ## License
+
 ### MIT
 #### Copyright (c) 2018 Archan Patkar All rights reserved.
-
-### Made with ❤️ in  🇮🇳
