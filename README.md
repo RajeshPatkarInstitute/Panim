@@ -1,6 +1,6 @@
 ## <img src="Panim.svg"/> 
 ### <img src="https://img.shields.io/github/license/mashape/apistatus.svg?longCache=true&style=for-the-badge"/> 
-### A library that enables character based Console Animation
+### A Library that enables character based console animation
 
 ## Installation
 > Requires `Python` and currently tested and supported on `MacOSX` and `Linux`
