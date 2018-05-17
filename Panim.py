@@ -1,40 +1,30 @@
-from enum import Enum;
-
-class COLOR(Enum):
-    RED = 1
-    BLUE = 2
-    GREEN = 3
-    YELLOW = 4
+BLACK = 0
+RED = 1
+GREEN = 2
+YELLOW = 3
+BLUE = 4
+MAGENTA = 5
+CYAN = 6
+WHITE = 7
 
 def clrscr():
-    print("\033[2J", sep='' , end='' , flush=True)
+    print("\033[2J",end='')
 
 def showcur():
-    print("\033[?25h", sep='' , end='' , flush=True)
+    print("\033[?25h",end='')
 
 def hidecur():
-    print("\033[?25l", sep='' , end='' , flush=True)
+    print("\033[?25l",end='')
 
 def foreground(color):
-    print("\033[3",color,"m", sep='' , end='' , flush=True)
+    print("\033[3",color,"m",end='')
 
 def background(color):
-    print("\033[4",color,"m", sep='' , end='' , flush=True)
+    print("\033[4",color,"m",end='')
 
 def gotoxy(x,y):
-    print("\033[",x,";",y,"H", sep='' , end='' , flush=True)
+    print("\033[",x,";",y,"H",end='')
 
-def putchar(char):
-    if(char.length == 1):
-        print(char)
-
-foreground(2);
-background(6);
-print("HEllo World");
-hidecur();
-input();
-showcur();
-clrscr();
-print("HEllo Universe");
-foreground(9);
-background(0);
+def putchar(ch):
+    if(len(ch) == 1):
+        print(ch,end='')
