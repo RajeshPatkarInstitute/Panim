@@ -10,10 +10,10 @@ WHITE = 7
 def clrscr():
     print("\033[2J",end='')
 
-def showcur():
+def showcursor():
     print("\033[?25h",end='')
 
-def hidecur():
+def hidecursor():
     print("\033[?25l",end='')
 
 def foreground(color):
