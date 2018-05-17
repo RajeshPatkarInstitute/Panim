@@ -1,6 +1,6 @@
 ## <img src="Panim.svg"/> 
 ### <img src="https://img.shields.io/github/license/mashape/apistatus.svg?longCache=true&style=for-the-badge"/> 
-### This is a library inspired by conio.h (Turbo C)
+### A Library that enables character based console animation
 
 ## Installation
 > Requires `Python` and currently tested and supported on `MacOSX` and `Linux`
@@ -26,4 +26,6 @@ foreground(WHITE);
 
     *
 ```
+For Complete Reference - [API](https://github.com/archanpatkar/Panim/wiki/API-Reference)
+
 ### Made with ❤️ in  🇮🇳
