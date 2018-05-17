@@ -1,5 +1,4 @@
 ## <img src="Panim.svg"/> 
-### <img src="https://img.shields.io/badge/Platform-Python-brightgreen.svg?longCache=true&style=for-the-badge"/> 
 ### <img src="https://img.shields.io/github/license/mashape/apistatus.svg?longCache=true&style=for-the-badge"/> 
 ### This is a library inspired by conio.h (Turbo C)
 
