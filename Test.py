@@ -1,8 +1,17 @@
 from Panim import *
 
-gotoxy(5,5);
-foreground(RED);
-putchar('*');
-putchar('\n');
-putchar('\n');
-foreground(WHITE);
+x = 5
+y = 5
+
+hidecursor()
+foreground(RED)
+for i in range(5):
+    gotoxy(x+i,y)
+    putchar('*')
+    sleep(.5)
+    gotoxy(x+i,y)
+    putchar(' ')
+    sleep(.5)
+input()
+foreground(WHITE)
+showcursor()
