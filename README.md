@@ -1,4 +1,4 @@
 # Panim
 ### A Console Animation Library 🔆
 
-### Made with ❤️in 🇮🇳
+### Made with ❤️ in  🇮🇳
