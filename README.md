@@ -15,8 +15,6 @@ foreground(WHITE);
 ```
 ### Output
 ```
-Archans-MacBook-Pro:Panim archanpatkar$ python Test.py
-
 
 
     *
