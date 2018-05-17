@@ -21,7 +21,6 @@ foreground(WHITE);
 ```
 
 ## License
-### MIT
-#### Copyright (c) 2018 Archan Patkar, All rights reserved.
+### MIT Copyright (c) 2018 Archan Patkar, All rights reserved.
 
 ## Made with ❤️ in  🇮🇳
