@@ -15,7 +15,13 @@ putchar('\n');
 foreground(WHITE);
 ```
 ### Output
-<img src="Output.png" />
+```
+Archans-MacBook-Pro:Panim archanpatkar$ python Test.py
+
+
+
+    *
+```
 
 ## License
 ### MIT
