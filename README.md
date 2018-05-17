@@ -3,7 +3,7 @@
 ### This is a library inspired by conio.h (Turbo C)
 
 ## Installation
-> Requires `Python`
+> Requires `Python` and currently tested and supported on `MacOSX` and `Linux`
 ### 1. Donwload the `latest` release of [Panim.py](https://github.com/archanpatkar/Panim/releases/tag/0.1)
 ### 2. Add the `Panim.py` in your Project folder
 ### 3. Now you can use `Panim` in your Project
