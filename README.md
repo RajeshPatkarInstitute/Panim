@@ -13,6 +13,5 @@ putchar('\n');
 foreground(WHITE);
 ```
 ## License
-
 ### MIT
-#### Copyright (c) 2018 Archan Patkar All rights reserved.
+#### Copyright (c) 2018 Archan Patkar, All rights reserved.
