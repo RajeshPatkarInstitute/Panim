@@ -3,15 +3,18 @@ from Panim import *
 x = 5
 y = 5
 
+clrscr()
 hidecursor()
 foreground(RED)
-for i in range(5):
+background(BLUE)
+for i in range(8):
     gotoxy(x+i,y)
-    putchar('*')
+    putchar('»')
     sleep(.5)
     gotoxy(x+i,y)
     putchar(' ')
     sleep(.5)
-input()
 foreground(WHITE)
+background(BLACK)
+wait()
 showcursor()
