@@ -1,4 +1,4 @@
-## <img src="Panim.png" /> 
+### <img src="Panim.png"/> 
 ### Made with ❤️ in  🇮🇳
 
 ## Example Usage
