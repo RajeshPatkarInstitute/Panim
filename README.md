@@ -26,6 +26,6 @@ foreground(WHITE);
 
     *
 ```
-For Complete Referance - [API](https://github.com/archanpatkar/Panim/wiki/API-Reference)
+For Complete Reference - [API](https://github.com/archanpatkar/Panim/wiki/API-Reference)
 
 ### Made with ❤️ in  🇮🇳
