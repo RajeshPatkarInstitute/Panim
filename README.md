@@ -3,7 +3,7 @@
 ### This is a library inspired by conio.h (Turbo C)
 
 ## Installation
-> `Requires Python`
+> Requires `Python`
 ### TODO!
 
 ## Example Usage
