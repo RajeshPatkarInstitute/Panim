@@ -1,5 +1,4 @@
-<img src="Panim.png" /> 
-## A Console Animation Library 🔆
+## <img src="Panim.png" /> 
 ### Made with ❤️ in  🇮🇳
 
 ## Example Usage
