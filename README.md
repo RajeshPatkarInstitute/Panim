@@ -9,6 +9,7 @@
 ### 3. Now you can use `Panim` in your Project
 
 ## Example Usage
+For Complete Referance - [API](https://github.com/archanpatkar/Panim/wiki/API-Reference)
 ### Code
 ```python
 from Panim import *
