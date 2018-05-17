@@ -13,18 +13,24 @@
 ```python
 from Panim import *
 
-gotoxy(5,5);
-foreground(RED);
-putchar('*');
-putchar('\n');
-putchar('\n');
-foreground(WHITE);
-```
-### Output
-```
+x = 5
+y = 5
 
-
-    *
+clrscr()
+hidecursor()
+foreground(RED)
+background(BLUE)
+for i in range(10):
+    gotoxy(x+i,y)
+    putchar('»')
+    sleep(.5)
+    gotoxy(x+i,y)
+    putchar(' ')
+    sleep(.5)
+foreground(WHITE)
+background(BLACK)
+wait()
+showcursor()
 ```
 For Complete Reference - [API](https://github.com/archanpatkar/Panim/wiki/API-Reference)
 
