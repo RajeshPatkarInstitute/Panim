@@ -19,8 +19,4 @@ foreground(WHITE);
 
     *
 ```
-
 ### Made with ❤️ in  🇮🇳
-
-## License
-### MIT Copyright (c) 2018 Archan Patkar, All rights reserved.
