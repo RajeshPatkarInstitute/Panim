@@ -27,10 +27,10 @@ def background(color):
 def gotoxy(x,y):
     print("\033[",y,";",x,"H",sep='',end='',flush=True)
 
-def sleep(sec):
-    time.sleep(sec)
+def sleep(n):
+    time.sleep(n)
 
-def wait(prompt = True):
+def wait(echo = True):
     if(prompt):
         input("\nPress Enter to Continue")
     else:
