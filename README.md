@@ -9,7 +9,6 @@
 ### 3. Now you can use `Panim` in your Project
 
 ## Example Usage
-### Code
 ```python
 from Panim import *
 
