@@ -1,5 +1,5 @@
 ## <img src="Panim.svg"/> 
-### Made with ❤️ in  🇮🇳
+### This is a library inspired by conio.h (Turbo C)
 
 ## Example Usage
 ### Code
@@ -23,3 +23,5 @@ foreground(WHITE);
 ## License
 ### MIT
 #### Copyright (c) 2018 Archan Patkar, All rights reserved.
+
+## Made with ❤️ in  🇮🇳
