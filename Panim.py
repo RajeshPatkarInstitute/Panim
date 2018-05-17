@@ -6,7 +6,6 @@ class COLOR(Enum):
     GREEN = 3
     YELLOW = 4
 
-
 def clrscr():
     print("\033[2J", sep='' , end='' , flush=True)
 
@@ -21,6 +20,13 @@ def foreground(color):
 
 def background(color):
     print("\033[4",color,"m", sep='' , end='' , flush=True)
+
+def gotoxy(x,y):
+    print("\033[",x,";",y,"H", sep='' , end='' , flush=True)
+
+def putchar(char):
+    if(char.length == 1):
+        print(char)
 
 foreground(2);
 background(6);
