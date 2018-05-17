@@ -1,2 +1,2 @@
 # Panim
-A Console Animation Library 
+### A Console Animation Library 🔆
