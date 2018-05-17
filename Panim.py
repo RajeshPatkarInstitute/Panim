@@ -30,6 +30,12 @@ def gotoxy(x,y):
 def sleep(sec):
     time.sleep(sec)
 
+def wait(prompt = True):
+    if(prompt):
+        input("\nPress Enter to Continue")
+    else:
+        input("\n")
+
 def putchar(ch):
     if(len(ch) == 1):
         print(ch,sep='',end='',flush=True)
