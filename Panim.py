@@ -19,7 +19,11 @@ def hidecur():
 def foreground(color):
     print("\033[3",color,"m", sep='' , end='' , flush=True)
 
-foreground(1);
+def background(color):
+    print("\033[4",color,"m", sep='' , end='' , flush=True)
+
+foreground(2);
+background(6);
 print("HEllo World");
 hidecur();
 input();
@@ -27,3 +31,4 @@ showcur();
 clrscr();
 print("HEllo Universe");
 foreground(9);
+background(0);
