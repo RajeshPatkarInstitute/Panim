@@ -31,7 +31,7 @@ def sleep(n):
     time.sleep(n)
 
 def wait(echo = True):
-    if(prompt):
+    if(echo):
         input("\nPress Enter to Continue")
     else:
         input("\n")
